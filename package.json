@@ -1,0 +1,18 @@
+{
+  "name": "stackby-node-dev",
+  "version": "0.0.5",
+  "description": "Wrapper to access stackby api",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stackby",
+    "stackby-node"
+  ],
+  "author": "kalpesh",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
