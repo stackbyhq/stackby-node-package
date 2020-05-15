@@ -1,5 +1,5 @@
 {
-  "name": "@stackby/stackby-node-dev",
+  "name": "@stackby/stackby-node",
   "version": "0.0.6",
   "description": "Wrapper to access stackby api",
   "main": "src/index.js",
