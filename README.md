@@ -2,7 +2,7 @@ Node Wrapper For Stackby Api
 
 # Installation
 
-```bash npm i stackby-node-dev --save ```
+``` npm i stackby-node-dev --save ```
 
 # Usage
 

@@ -1,6 +1,6 @@
 const fetch = require("isomorphic-fetch");
 
-const BASE_ENDPOINT = "https://dev9.stackby.com/api/v0/";
+const BASE_ENDPOINT = "https://stackby.com/api/betav1/";
 
 const createFetch = ({ url, ...params }) =>
   fetch(url, params)
